@@ -1,8 +1,8 @@
 {
-    "name": "gitbook-plugin-sectionx",
+    "name": "gitbook-plugin-sectionx-modified",
     "description": "A GitBook plugin for separating the page into sections.",
     "main": "index.js",
-    "version": "2.0.1",
+    "version": "0.0.1",
     "engines": {
         "gitbook": ">=2.x.x"
     },
@@ -13,7 +13,7 @@
     "homepage": "https://github.com/ymcatar/gitbook-plugin-sectionx",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ymcatar/gitbook-plugin-sectionx.git"
+        "url": "https://github.com/Voxel-Busters-Interactive/gitbook-plugin-sectionx-modified.git"
     },
     "license": "Apache 2",
     "bugs": {
